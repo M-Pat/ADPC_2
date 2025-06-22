@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maki\\source\\repos\\ADPC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|c:\\users\\maki\\source\\repos\\adpc2\\adpc2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\helpers\\tsvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\helpers\\tsvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\models\\geneexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\models\\geneexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\services\\clinicalparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\services\\clinicalparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\models\\clinicalsurvival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\models\\clinicalsurvival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\constraints\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\constraints\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|C:\\Users\\Maki\\source\\repos\\ADPC2\\adpc2\\constraints\\constraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F45B3B1-5E0A-480A-B136-86BF48696E65}|ADPC2\\ADPC2.csproj|solutionrelative:adpc2\\constraints\\constraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MinioService.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Services\\MinioService.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Services\\MinioService.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Services\\MinioService.cs",
+              "RelativeToolTip": "ADPC2\\Services\\MinioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:27:10.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClinicalParser.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Services\\ClinicalParser.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Services\\ClinicalParser.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Services\\ClinicalParser.cs",
+              "RelativeToolTip": "ADPC2\\Services\\ClinicalParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:26:47.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoService.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Services\\MongoService.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Services\\MongoService.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Services\\MongoService.cs",
+              "RelativeToolTip": "ADPC2\\Services\\MongoService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:14:10.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Form1.Designer.cs",
+              "RelativeToolTip": "ADPC2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwH8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:30:35.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Form1.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Form1.cs [Design]",
+              "RelativeToolTip": "ADPC2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:30:32.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Form1.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Form1.cs",
+              "RelativeToolTip": "ADPC2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:33:31.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Constraints\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Constraints\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Constraints\\MongoDBSettings.cs",
+              "RelativeToolTip": "ADPC2\\Constraints\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:00:13.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneExpression.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Models\\GeneExpression.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Models\\GeneExpression.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Models\\GeneExpression.cs",
+              "RelativeToolTip": "ADPC2\\Models\\GeneExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:10:16.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClinicalSurvival.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Models\\ClinicalSurvival.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Models\\ClinicalSurvival.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Models\\ClinicalSurvival.cs",
+              "RelativeToolTip": "ADPC2\\Models\\ClinicalSurvival.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:10:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TsvParser.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Helpers\\TsvParser.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Helpers\\TsvParser.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Helpers\\TsvParser.cs",
+              "RelativeToolTip": "ADPC2\\Helpers\\TsvParser.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:00:16.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Program.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Program.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Program.cs",
+              "RelativeToolTip": "ADPC2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:30:30.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Constraints.cs",
+              "DocumentMoniker": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Constraints\\Constraints.cs",
+              "RelativeDocumentMoniker": "ADPC2\\Constraints\\Constraints.cs",
+              "ToolTip": "C:\\Users\\Maki\\source\\repos\\ADPC2\\ADPC2\\Constraints\\Constraints.cs",
+              "RelativeToolTip": "ADPC2\\Constraints\\Constraints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:59:58.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
