@@ -118,6 +118,8 @@ namespace ADPC2.Helpers
                     int? dss = colDSS >= 0 ? ParseNullableInt(csv.GetField(colDSS)) : null;
                     int? os = colOS >= 0 ? ParseNullableInt(csv.GetField(colOS)) : null;
                     string stage = colStage >= 0 ? csv.GetField(colStage) : null;
+                    if (!string.IsNullOrWhiteSpace(stage))
+                        Console.WriteLine($"Stage for {patientId}: {stage}");
 
                     clinicalData[patientId] = new ClinicalSurvival
                     {
